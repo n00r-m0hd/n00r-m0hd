@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I'm Noor Mohd
 
-<!--
-**n00r-m0hd/n00r-m0hd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Python Developer | MCA Graduate  
+📍 Focused on Backend & Problem Solving
 
-Here are some ideas to get you started:
+🔹 Skills:
+- Python
+- OOP
+- File Handling
+- SQL Basics
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 Projects:
+- Student Management System
+- Real-world Python Projects
+
+📫 Reach me:
+LinkedIn: https://www.linkedin.com/in/n00r-m0hd/
